@@ -1,11 +1,14 @@
 # Tic_Tac_Toe
-This is a simple stopwatch application built using HTML, CSS, and JavaScript. The stopwatch allows users to start, stop, and reset the timer. The user interface is designed with a clean and modern look, featuring animated buttons to enhance user interaction.
+This is a simple Tic-Tac-Toe game built using HTML, CSS, and JavaScript. The game allows two players to play against each other or one player to play against a bot. The user interface is designed with a modern look, and the game logic ensures a smooth and interactive experience.
 
-Features
-Start: Begin counting time in seconds and milliseconds.
-Stop: Pause the timer at the current time.
-Reset: Reset the timer back to 00:00.
-Technologies Used
-HTML5: Provides the structure of the application.
-CSS3: Handles the styling and layout, including animations.
-JavaScript: Implements the stopwatch functionality and interactivity.
+## Features
+- Two Player Mode: Play against a friend on the same device.
+- Single Player Mode: Play against a bot with random moves.
+- Winning Detection: Automatically detects the winner or if the game is a draw.
+- Replay Option: Allows users to start a new game after finishing.
+
+
+## Technologies Used
+- **HTML5**: Provides the structure for the game.
+- **CSS3**: Handles the styling and layout, including animations.
+- **JavaScript**: Implements the game logic and interactivity
